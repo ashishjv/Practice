@@ -2,6 +2,9 @@
 .ipynb_checkpoints
 Untitled.ipynb
 
+# C++ intermediate files
+*.dSYM
+
 # Apple default
 .DS_Store
 
