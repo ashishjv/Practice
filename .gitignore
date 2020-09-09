@@ -1,0 +1,7 @@
+# ipynb supporting files
+.ipynb_checkpoints
+Untitled.ipynb
+
+# Apple default
+.DS_Store
+
